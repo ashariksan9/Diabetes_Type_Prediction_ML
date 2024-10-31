@@ -1,0 +1,2 @@
+URL dataset yang digunakan: https://www.kaggle.com/datasets/ankitbatra1210/diabetes-dataset/data
+URL Model Deployment: https://huggingface.co/spaces/ashariksan9/Model_Prediction_Diabetes_Type
