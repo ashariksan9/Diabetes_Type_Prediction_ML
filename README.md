@@ -1,4 +1,4 @@
-# Early-Detection-Diabetes-Types-Machine-Learning
+# Early Detection Diabetes Types Machine Learning
 
 ## 🎯 Project Objective
 
